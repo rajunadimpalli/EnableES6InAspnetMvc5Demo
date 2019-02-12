@@ -109,6 +109,7 @@
     <Content Include="Views\web.config" />
     <Content Include="package.json" />
     <Content Include=".babelrc" />
+    <Content Include=".gitignore" />
     <None Include="packages.config" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\_ViewStart.cshtml" />
